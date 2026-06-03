@@ -1,0 +1,33 @@
+[12:00:00] Sistema: === Nova sessão iniciada em 26/05/2026 12:00:00 ===
+[12:00:00] Você: Olá
+[12:00:00] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[12:00:00] Você: posso pagar como?
+[12:00:00] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[12:00:00] Você: posso pagar metade no pix e metade no cartão?
+[12:00:00] Bot: No momento, nosso checkout nao suporta pagamento misto ou divisao em dois cartoes.
+[12:00:00] Você: cês tão me taxando do nada
+[12:00:00] Bot: Entendi: parece uma cobranca duplicada ou valor incorreto. Em financeiro, o ideal e conferir pedido, data, valor e meio de pagamento antes de qualquer acao. Se houver duplicidade confirmada, o caminho correto e auditoria e estorno.
+[12:00:00] Você: oxente cade meu pix
+[12:00:00] Bot: Se o banco aprovou e ainda nao constou na FashionFlow, precisamos tratar como conciliacao de pagamento. Confira se o pagamento foi para o pedido correto e aguarde alguns minutos; se persistir, um atendente valida pelo comprovante.
+[12:00:00] Você: pix devolvido nao chegou
+[12:00:00] Bot: Quando o estorno por Pix ja foi solicitado e o valor ainda nao voltou, o ideal e conferir o comprovante e abrir uma verificacao com o Financeiro.
+[12:00:00] Você: quero fazer um emprestimo
+[12:00:00] Bot: No momento, nao oferecemos servicos de emprestimo ou credito pessoal.
+[12:00:00] Você: sair
+[12:00:00] Bot: Atendimento finalizado. Obrigado por falar com o Financeiro da FashionFlow.
+[12:00:00] Sistema: === Sessão encerrada de forma limpa ===
+[15:50:20] Sistema: === Nova sessão iniciada em 26/05/2026 15:50:20 ===
+[15:50:23] Você: olá
+[15:50:23] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[15:50:26] Você: ok
+[15:50:27] Bot: Desculpe, não consegui compreender a sua dúvida. Pode tentar explicar de outra forma?
+[15:50:41] Bot: Atendimento finalizado preventivamente. Até logo! 👋
+[15:50:42] Sistema: === Sessão encerrada de forma limpa ===
+
+[15:50:52] Sistema: === Nova sessão iniciada em 26/05/2026 15:50:52 ===
+[15:50:54] Você: olá
+[15:50:54] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[15:50:57] Você: ok
+[15:50:58] Bot: Atendimento finalizado. Obrigado por falar com o Financeiro da FashionFlow.
+[15:50:58] Sistema: === Sessão encerrada de forma limpa ===
+
